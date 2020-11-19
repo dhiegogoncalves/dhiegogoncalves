@@ -7,8 +7,8 @@
 
 My name is Dhiego and I'm full stack developer.
 
- - 🌱 I’m currently learning React and React Native
- - :heart: Technologies: Javascript, Typescript, Java, C# ...
+ - 🌱 I’m currently learning Flutter.
+ - :heart: Technologies: Javascript, Typescript, Java, C#.
 
 <!--
 **dhiegogoncalves/dhiegogoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
