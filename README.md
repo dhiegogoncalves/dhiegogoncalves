@@ -5,10 +5,10 @@
 
 ### Hellooo! 👋 Welcome to my profile
 
-My name is Dhiego and I'm full stack developer.
+My name is Dhiego and I'm full stack web developer.
 
- - 🌱 I’m currently learning Flutter.
- - :heart: Technologies: Javascript, Typescript, Java, C#.
+ - 🌱 I’m currently learning Devops.
+ - :heart: Technologies: Javascript, Typescript, Java, C#, Flutter.
 
 <!--
 **dhiegogoncalves/dhiegogoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
