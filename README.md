@@ -5,7 +5,7 @@
 
 ### Hellooo! 👋 Welcome to my profile
 
-My name is Dhiego and I'm full stack web developer.
+My name is Dhiego and I'm full-stack web developer.
 
  - 🌱 I’m currently learning Devops.
  - :heart: Technologies: Javascript, Typescript, Java, C#, Flutter, Angular and React.
