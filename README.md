@@ -7,7 +7,7 @@
 
 My name is Dhiego and I'm full-stack web developer.
 
- - 🌱 I’m currently learning Devops.
+ - 🌱 I’m currently learning Go.
  - :heart: Technologies: Javascript, Typescript, Java, C#, Flutter, Angular and React.
 
 <!--
