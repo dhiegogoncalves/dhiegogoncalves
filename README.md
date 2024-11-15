@@ -6,7 +6,7 @@
 
 I'm Full Stack Software Developer.
 
- - :heart: Technologies: Golang and Java.
+ - :heart: Technologies: Golang, Java, React and Nextjs.
 
  <div>
   <a href="https://github.com/dhiegogoncalves">
@@ -16,5 +16,5 @@ I'm Full Stack Software Developer.
  
  ##
  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhiegosilva/)](https://www.linkedin.com/in/dhiegosilva/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhiegogoncalves/)](https://www.linkedin.com/in/dhiegogoncalves/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhhiego@gmail.com)](mailto:dhhiego@gmail.com)
