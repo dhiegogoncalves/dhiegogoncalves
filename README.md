@@ -6,7 +6,7 @@
 
 I'm Full Stack Software Developer.
 
- - :heart: Technologies: Javascript, Typescript, Java, Go and React.
+ - :heart: Technologies: Golang and Java.
 
  <div>
   <a href="https://github.com/dhiegogoncalves">
