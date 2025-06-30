@@ -2,10 +2,9 @@
 
 ### Hi there! 👋 Welcome to my GitHub
 
-I'm a **Senior Software Engineer** with over **11 years of experience** in software development, focusing on **back-end**, **microservices architecture**, and **high-scale systems** — while also maintaining solid knowledge of **modern front-end technologies**.
+I'm a Senior Software Engineer with over 11 years of experience in software development, focusing on back-end, microservices architecture, and high-scale systems, with working knowledge of modern front-end technologies.
 Currently at **Bemobi**, I develop solutions for the **payment ecosystem**, including **Pix, credit and debit cards, bank slips**, and **international payments**, integrating with **payment gateways** to ensure reliability, security, and scalability.
-I work across the entire development lifecycle — from implementation to production — with a strong focus on **infrastructure as code (Terraform)**, **CI/CD**, **automated deployments**, **observability**, **resilience patterns** (fallback, retry, circuit breaker), and **event-driven architecture**.
-
+I work across the entire development lifecycle, from implementation to production, with a strong focus on **infrastructure as code (Terraform)**, **CI/CD**, **automated deployments**, **observability**, **resilience patterns** (fallback, retry, circuit breaker), and **event-driven architecture**.
 
 💡 I'm passionate about clean architecture, automation, distributed systems, and building scalable solutions that solve real-world problems.
 
