@@ -8,8 +8,8 @@
 
 ## My GitHub stats
 <div>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhiegogoncalves&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiegogoncalves&show_icons=true&theme=tokyonight&layout=compact"/>
+  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhiegogoncalves&show_icons=true&theme=tokyonight"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiegogoncalves&show_icons=true&theme=tokyonight&layout=compact"/>
 </div>
  
  ##
