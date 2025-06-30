@@ -6,10 +6,10 @@
 
 :heart: Technologies: Golang, Java, React and Nextjs.
 
- <div>
-  <a href="https://github.com/dhiegogoncalves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhiegogoncalves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiegogoncalves&layout=compact&langs_count=8&theme=tokyonight"/>
+## My GitHub stats
+<div>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhiegogoncalves&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiegogoncalves&show_icons=true&theme=tokyonight&layout=compact"/>
 </div>
  
  ##
