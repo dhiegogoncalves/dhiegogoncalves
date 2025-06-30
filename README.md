@@ -4,7 +4,7 @@
 
 I'm a **Senior Software Engineer** with over **11 years of experience** in software development, focusing on **back-end**, **microservices architecture**, and **high-scale systems** — while also maintaining solid knowledge of **modern front-end technologies**.
 
-Currently, I work at **Bemobi**, building payment solutions such as **Pix, credit cards, bank slips**, and **international payments**. I use technologies like **Golang**, **Java (Spring)**, and **AWS**, with a strong focus on **infrastructure as code (Terraform)**, **CI/CD**, and **resilience patterns** like fallback, retry, and circuit breaker.
+Currently at Bemobi, I build solutions for the payment ecosystem, including Pix, credit cards, bank slips, and international payments. I work across the entire development lifecycle, with a focus on infrastructure as code (Terraform), CI/CD, automated deployments, resilience patterns (fallback, retry, circuit breaker), and event-driven architecture.
 
 💡 I'm passionate about clean architecture, automation, distributed systems, and building scalable solutions that solve real-world problems.
 
