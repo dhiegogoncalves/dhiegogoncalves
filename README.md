@@ -2,7 +2,7 @@
 
 ### Hi there! 👋 Welcome to my GitHub
 
-I'm a **Senior Software Engineer** with over **11 years of experience** in software development, specializing in **back-end**, **microservices architecture**, **event-driven systems**, and **high-scale environments**.
+I'm a **Senior Software Engineer** with over **11 years of experience** in software development, focusing on **back-end**, **microservices architecture**, and **high-scale systems** — while also maintaining solid knowledge of **modern front-end technologies**.
 
 Currently, I work at **Bemobi**, building payment solutions such as **Pix, credit cards, bank slips**, and **international payments**. I use technologies like **Golang**, **Java (Spring)**, and **AWS**, with a strong focus on **infrastructure as code (Terraform)**, **CI/CD**, and **resilience patterns** like fallback, retry, and circuit breaker.
 
