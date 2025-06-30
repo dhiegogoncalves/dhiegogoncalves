@@ -4,9 +4,7 @@
 
 ### Hellooo! 👋 Welcome to my profile
 
-I'm Full Stack Software Developer.
-
- - :heart: Technologies: Golang, Java, React and Nextjs.
+:heart: Technologies: Golang, Java, React and Nextjs.
 
  <div>
   <a href="https://github.com/dhiegogoncalves">
